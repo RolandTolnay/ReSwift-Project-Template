@@ -1,0 +1,9 @@
+*.mode1v3
+*.perspectivev3
+*.pbxuser
+.DS_Store
+build/
+ReSwift-Template.xcodeproj/project.xcworkspace/xcuserdata
+ReSwift-Template.xcodeproj/xcuserdata
+ReSwift-Templatee.xcworkspace/xcuserdata
+Pods/
